@@ -63,7 +63,7 @@ The dashboard layout is designed with strict data hierarchy and interactivity in
 ## Project Visual Preview
 
 *Below is a visual representation of the completed interactive dashboard layer:*
-
+nsurance Claims Risk Analytics & Fraud Detection Power BI Dashboard.png
 
 
 ## Repository Deliverables
