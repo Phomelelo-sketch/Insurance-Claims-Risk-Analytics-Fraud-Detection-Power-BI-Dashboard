@@ -72,5 +72,5 @@ nsurance Claims Risk Analytics & Fraud Detection Power BI Dashboard.png
 *(Note: To display your dashboard image, upload a high-quality screenshot of your Power BI canvas into your repository's "images" folder and ensure it is named exactly "insurance_dashboard_preview.png")*
 
 ## Repository Deliverables
-* `DFA_Assignment 4_Phomelelo.pbix`: The source Power BI dashboard workbook (downloadable for interactive testing).
+* `DFA_Insurance-Claims-Risk-Analytics-Fraud-Detection.pbix`: The source Power BI dashboard workbook (downloadable for interactive testing).
 * `images/`: Folder holding UI screenshots and design elements.
